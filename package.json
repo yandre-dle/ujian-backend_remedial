@@ -1,0 +1,17 @@
+{
+  "name": "ujian-backend_remedial",
+  "version": "1.0.0",
+  "description": "ujian backend remedial one to many",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yandri reuter",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
